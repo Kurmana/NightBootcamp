@@ -1,0 +1,7 @@
+name = input('имя -')
+last_name = input('фамилия - ')
+age = input('возраст - ')
+gender = input('пол - ')
+occupation = input('место работы - ')
+any_programming_experience = input('опыт в программировании - ')
+print(name, last_name, age, gender, occupation, any_programming_experience)

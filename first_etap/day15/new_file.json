@@ -1,0 +1,5 @@
+{"login": "uuuppp999nnn", "email": "fff@gmail.com", "age": 24, "phone_number": 8785664534534}
+
+
+py_object = json.loads()
+#как сделать json py

@@ -1,0 +1,8 @@
+oklad = int(input())
+kalendar_dnei = int(input())
+fact_dnei = int(input())
+premii = int(input())
+nalog = int(input())
+yderjaniya = int(input())
+zarplata = (oklad / kalendar_dnei * fact_dnei + premii) * ((100 - nalog) / 100 - yderjaniya)
+print(zarplata)
